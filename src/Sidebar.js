@@ -8,6 +8,7 @@ function Sidebar() {
         <div className='sidebar__recentItem'>
             <span className='sidebar__hash'>#</span>
             <p>{topic}</p>
+            <p>Hello, {topic}!</p>
         </div>
     );
 
