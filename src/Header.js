@@ -19,7 +19,6 @@ function Header() {
          <input type="text"/>
          <p>Hello, Search for people, jobs, posts and more!</p>
          <h1>WhatsApp</h1>
-         <h2>Instagram</h2>
         </div>
 
 
