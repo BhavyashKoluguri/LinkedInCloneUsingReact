@@ -18,6 +18,7 @@ function Header() {
         <SearchIcon />
          <input type="text"/>
          <p>Hello, Search for people, jobs, posts and more!</p>
+         <h1>LinkedIn</h1>
         </div>
 
 
