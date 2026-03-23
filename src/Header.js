@@ -17,6 +17,8 @@ function Header() {
         <div className='header__search'>
         <SearchIcon />
          <input type="text"/>
+         <p>Hello, Search for people, jobs, posts and more!</p>
+         <h1>WhatsApp</h1>
          <input type="text" placeholder='Search' />
         </div>
 
