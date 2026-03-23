@@ -8,6 +8,7 @@ function HeaderOption({ avatar, Icon, title}) {
       {Icon && <Icon className="headerOption__icon"/>}
       {avatar && <AccountCircleIcon className="headerOption__icon"  src={avatar} />}
       <h3 className='headerOption__title'>{title}</h3>
+      <h1>HeaderOption</h1>
     </div>
   );
 }
